@@ -1,0 +1,19 @@
+body{
+    background-color: Cyan;
+    text-align: center;
+}
+#elonmusk,#thomasalvaedison{
+    width: 250px;
+    height: 250px;
+}
+    img{
+        transition: transform 1s;
+        width: 250px;
+        height: 250px;
+    }
+    img:hover{
+    transform: scale(0.9);
+    }
+#adhrit,#ironman{
+    font-style: oblique;
+}
